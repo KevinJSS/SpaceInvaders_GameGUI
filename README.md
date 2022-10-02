@@ -5,6 +5,7 @@ Space Invaders is a JavaFX Game, programmed in two separate modules: Client and 
 
 ### Build With:
 - Java 100%
+- JavaFX
 
 ### Developed by:
 - Kevin Alvarado.
